@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "cSharpHts/1.0.0": {
+        "runtime": {
+          "cSharpHts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cSharpHts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

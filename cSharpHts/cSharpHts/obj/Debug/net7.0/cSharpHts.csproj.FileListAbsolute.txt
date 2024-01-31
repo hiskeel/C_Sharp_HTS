@@ -1,0 +1,15 @@
+D:\C# HTs\cSharpHts\cSharpHts\bin\Debug\net7.0\cSharpHts.exe
+D:\C# HTs\cSharpHts\cSharpHts\bin\Debug\net7.0\cSharpHts.deps.json
+D:\C# HTs\cSharpHts\cSharpHts\bin\Debug\net7.0\cSharpHts.runtimeconfig.json
+D:\C# HTs\cSharpHts\cSharpHts\bin\Debug\net7.0\cSharpHts.dll
+D:\C# HTs\cSharpHts\cSharpHts\bin\Debug\net7.0\cSharpHts.pdb
+D:\C# HTs\cSharpHts\cSharpHts\obj\Debug\net7.0\cSharpHts.csproj.AssemblyReference.cache
+D:\C# HTs\cSharpHts\cSharpHts\obj\Debug\net7.0\cSharpHts.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# HTs\cSharpHts\cSharpHts\obj\Debug\net7.0\cSharpHts.AssemblyInfoInputs.cache
+D:\C# HTs\cSharpHts\cSharpHts\obj\Debug\net7.0\cSharpHts.AssemblyInfo.cs
+D:\C# HTs\cSharpHts\cSharpHts\obj\Debug\net7.0\cSharpHts.csproj.CoreCompileInputs.cache
+D:\C# HTs\cSharpHts\cSharpHts\obj\Debug\net7.0\cSharpHts.dll
+D:\C# HTs\cSharpHts\cSharpHts\obj\Debug\net7.0\refint\cSharpHts.dll
+D:\C# HTs\cSharpHts\cSharpHts\obj\Debug\net7.0\cSharpHts.pdb
+D:\C# HTs\cSharpHts\cSharpHts\obj\Debug\net7.0\cSharpHts.genruntimeconfig.cache
+D:\C# HTs\cSharpHts\cSharpHts\obj\Debug\net7.0\ref\cSharpHts.dll
